@@ -37,3 +37,18 @@ body {
   }
 
 }
+
+
+.iframe-custom{
+  width: 456px;
+  height: 400px;
+}
+
+.card-text{
+  color: white;
+}
+
+.titulo-custom{
+  color: white;
+}
+
